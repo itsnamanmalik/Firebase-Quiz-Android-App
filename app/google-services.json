@@ -1,0 +1,85 @@
+{
+  "project_info": {
+    "project_number": "73053983559",
+    "firebase_url": "https://trendytech-50f16.firebaseio.com",
+    "project_id": "trendytech-50f16",
+    "storage_bucket": "trendytech-50f16.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:73053983559:android:e27ac16c0f31bca61c7262",
+        "android_client_info": {
+          "package_name": "com.naman.firebasequizapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "73053983559-8i9lirld3s97ngbdu9rjd9mrh6bfcgbf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBXT3vNv_NB9TZI12cXD6aY-14LO6sYJwk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "73053983559-8i9lirld3s97ngbdu9rjd9mrh6bfcgbf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:73053983559:android:d4c5945f161a4ad0",
+        "android_client_info": {
+          "package_name": "nm.chemistrynotesclass12"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "73053983559-8bui22q4mj7rp9vk39ea27douq2kgcl8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "nm.chemistrynotesclass12",
+            "certificate_hash": "32cba8a416a0f9127111bd14b232e637bd50d4d3"
+          }
+        },
+        {
+          "client_id": "73053983559-igfeja7q8vshaamodsijr5scfq0hsmn3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "nm.chemistrynotesclass12",
+            "certificate_hash": "53c2d257d2e81c7afe9ac8dde89f09a0ceba6f54"
+          }
+        },
+        {
+          "client_id": "73053983559-8i9lirld3s97ngbdu9rjd9mrh6bfcgbf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBXT3vNv_NB9TZI12cXD6aY-14LO6sYJwk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "73053983559-8i9lirld3s97ngbdu9rjd9mrh6bfcgbf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Firebase Quiz App</string>
+
+<!-- Enter correct audience network id for ads-->
+    <string name="banner">banner_id</string>
+    <string name="inter">interstitial_id</string>
+    <string name="facebook_app_id">app_id</string>
+</resources>

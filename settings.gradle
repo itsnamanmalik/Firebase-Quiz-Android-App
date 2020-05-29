@@ -1,0 +1,2 @@
+rootProject.name='Firebase Quiz App'
+include ':app'
